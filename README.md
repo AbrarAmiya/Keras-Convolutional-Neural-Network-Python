@@ -149,7 +149,9 @@ We've built the model, done our configuration therefore we can now start trainin
 **Line 2** This line runs our model. Out of 50000 we take a consecutive 512 batches and run them 25 times each. (Batch size = 512, epoch = 25)
 
 **Line 5** We can save our weights if we want to.
-
+<p align="center">
+  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg">
+</p>
 **Line 7** Finally, we display our accuracy after evaluating our test set.
 
 
