@@ -1,7 +1,7 @@
 
 # Keras Convolutional Neural Network with Python
 
-
+---
 Welcome to another tutorial on Keras. This tutorial will be exploring how to build a Convolutional Neural Network model for Object Classification. Let's get straight into it!
 
 ```
