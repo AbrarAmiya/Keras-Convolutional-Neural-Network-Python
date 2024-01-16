@@ -52,6 +52,7 @@ Then head to the .keras/ directory under your username and save the file in the 
 cifar-10-bathces-py.tar.gz. You can then continue normally running the Python program
 ```
 ### Formatting the Data
+---
 Like always Keras requires a unique format in order to process the data. Therefore we need to format our data
 ```python
 1    #Keep in mind the images are in RGB
